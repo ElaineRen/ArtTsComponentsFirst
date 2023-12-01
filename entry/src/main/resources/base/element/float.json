@@ -1,0 +1,45 @@
+{
+  "float": [
+    {
+      "name": "logo_image_size_78vp",
+      "value": "78vp"
+    },
+    {
+      "name": "other_login_image_size",
+      "value": "48vp"
+    }, {
+      "name": "page_padding_12vp",
+      "value": "12vp"
+    },
+    {
+      "name": "page_padding_24vp",
+      "value": "24vp"
+    },
+    {
+      "name": "vp_100",
+      "value": "100vp"
+    },
+    {
+      "name": "vp_8",
+      "value": "8vp"
+    }
+
+  ,
+    {
+      "name": "fp_24",
+      "value": "24fp"
+    },
+    {
+      "name": "fp_16",
+      "value": "16fp"
+    },
+    {
+      "name": "fp_30",
+      "value": "30fp"
+    },
+    {
+      "name": "fp_1",
+      "value": "1fp"
+    }
+  ]
+}

@@ -11,6 +11,41 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "输入不能为空"
+    },
+    {
+      "name": "login_page",
+      "value": "Login page"
+    },
+    {
+      "name": "login_page_content",
+      "value": "Log in to your account to use more services"
+    },
+    {
+      "name": "account_str",
+      "value": "Account"
+    },
+    {
+      "name": "password_str",
+      "value": "Password"
+    },{
+      "name": "verification_code_login",
+      "value": "SMS verification code login"
+    },{
+      "name": "forgot_password",
+      "value": "Forgot Password"
+    },{
+      "name": "login_in",
+      "value": "Log in"
+    },{
+      "name": "register_an_account",
+      "value": "Register an Account"
+    },{
+      "name": "other_login_method",
+      "value": "Other login methods"
     }
   ]
 }
