@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "fp_1",
+      "value": "1fp"
+    },
+    {
+      "name": "fp_12",
+      "value": "12fp"
+    },
+    {
+      "name": "fp_14",
+      "value": "14fp"
+    },
+    {
+      "name": "fp_16",
+      "value": "16fp"
+    },
+    {
+      "name": "fp_18",
+      "value": "18fp"
+    },
+    {
+      "name": "fp_24",
+      "value": "24fp"
+    },
+    {
+      "name": "fp_30",
+      "value": "30fp"
+    }
+  ]
+}
