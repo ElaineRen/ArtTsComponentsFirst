@@ -31,21 +31,34 @@
     {
       "name": "password_str",
       "value": "Password"
-    },{
+    },
+    {
       "name": "verification_code_login",
       "value": "SMS verification code login"
-    },{
+    },
+    {
       "name": "forgot_password",
       "value": "Forgot Password"
-    },{
+    },
+    {
       "name": "login_in",
       "value": "Log in"
-    },{
+    },
+    {
       "name": "register_an_account",
       "value": "Register an Account"
-    },{
+    },
+    {
       "name": "other_login_method",
       "value": "Other login methods"
+    },
+    {
+      "name": "home_tile",
+      "value": "Home"
+    },
+    {
+      "name": "my_title",
+      "value": "My"
     }
   ]
 }

@@ -31,4 +31,23 @@ export default class CommonConstants{
    */
   static readonly LOGIN_METHODS_SPACE = 44;
 
+  /**
+   * Home tab index
+   */
+  static readonly HOME_TAB_INDEX = 0;
+
+  /**
+   * Mine tab index
+   */
+  static readonly MINE_TAB_INDEX = 1;
+
+
+  /**
+   * Common Spacing of Components
+   */
+  static readonly COMMON_SPACE = 12;
+
+
+
+
 }

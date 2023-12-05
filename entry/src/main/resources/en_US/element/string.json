@@ -43,6 +43,12 @@
     },{
       "name": "other_login_method",
       "value": "Other login methods"
+    },{
+      "name": "home_tile",
+      "value": "Home"
+    },{
+      "name": "my_title",
+      "value": "My"
     }
   ]
 }

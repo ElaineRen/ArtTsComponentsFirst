@@ -43,6 +43,12 @@
     },{
       "name": "other_login_method",
       "value": "其他登录方式"
+    },{
+      "name": "home_tile",
+      "value": "首页"
+    },{
+      "name": "my_title",
+      "value": "我的"
     }
   ]
 }
