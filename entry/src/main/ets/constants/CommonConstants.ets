@@ -48,6 +48,10 @@ export default class CommonConstants{
   static readonly COMMON_SPACE = 12;
 
 
+  /**
+   * The width of setting list
+   */
+  static readonly SET_LIST_WIDTH = '42%';
 
 
 }

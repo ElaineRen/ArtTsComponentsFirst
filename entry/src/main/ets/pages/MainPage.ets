@@ -1,4 +1,6 @@
 import CommonConstants from '../constants/CommonConstants'
+import Home from '../view/Home';
+import Setting from '../view/Setting';
 
 @Entry
 @Component
@@ -31,8 +33,7 @@ struct MainPage {
       controller: this.tabsController
     }) {
       TabContent() {
-        //todo home页面
-
+        Home();
       }
       .padding({ left: $r('app.float.vp_12'), right: $r('app.float.fp_12') })
       .backgroundColor($r('app.color.color_f1f3f5'))
@@ -42,8 +43,7 @@ struct MainPage {
         , $r('app.media.home_normal')))
 
       TabContent() {
-        //todo mine页面
-
+        Setting()
       }.padding({ left: $r('app.float.vp_12'), right: $r('app.float.fp_12') })
       .backgroundColor($r('app.color.color_f1f3f5'))
       .tabBar(this.TabBuilder($r('app.string.my_title')
